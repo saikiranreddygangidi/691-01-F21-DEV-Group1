@@ -6,4 +6,14 @@ This project is focused to creating a web application that allows students to bu
 
 The overview of the project is to develop an application that allows students to check the books they want to buy, rent, or sell them to the institution. They will be given an appointment at their university library after filling out a form, where they will bring their book and sell it to the institution. These books can be looked up based on the student details like Name, Subject, Semester. The students need to fill a form for buying, selling, and renting the books and make an appointment where the admin can accept or reject the appointment based on the availability of the book in the library.
 
+**Benefits
+
+•	Students can buy books easily in the library. 
+•	This also allows the university to buy newer addition of textbooks in a short time span.
+•	It allows students to buy or rent books easily.
+•	Students who require these books for a short time period can get access easily.
+ 
+
+
+
 
