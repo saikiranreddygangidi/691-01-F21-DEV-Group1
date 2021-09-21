@@ -9,3 +9,5 @@ Documentation about .Net/C# :  https://docs.microsoft.com/en-us/aspnet/core/tuto
 
 
 
+## Start this tutorial First:<br>
+https://www.youtube.com/watch?v=3AYoipyqOkQ&list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo&ab_channel=kudvenkat
