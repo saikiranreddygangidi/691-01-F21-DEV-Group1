@@ -5,15 +5,15 @@ The technologies used in this project will be
 
 1. Backend language + framework:  
 
-    For Backend we will be using C# & .NET 
+    For Backend we will be using C# & ASP.NET CORE 
 
 2. Backend app host: 
 
-    For hosting the app we will be using Heroku 
+    For hosting the app we will be using Heroku or Azure
 
 3. Data host + type: 
 
-    For Data hosting we will be using Heroku ClearBD MySQL or Microsoft SQL Server (If permitted)
+    For Data hosting we will be using  Microsoft SQL Server (If permitted)
 
 4. Front-end page plan: 
 
@@ -21,7 +21,7 @@ The technologies used in this project will be
 
 5. Front-end responsive design:  
 
-    For responsive design we are going to use AngularJS 
+    For responsive design we are going to use AngularJS or NodeJS 
 
 6. Static analysis tools: 
 
