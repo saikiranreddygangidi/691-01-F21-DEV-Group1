@@ -29,10 +29,12 @@ The overview of the project is to develop an application that allows students to
 ## User interface sketches 
  #### Website Map
  ![interface Sketch](https://user-images.githubusercontent.com/77645775/135176134-8c275dc5-5484-41a6-813b-6da5033621ed.png) 
- #### Admin Capacity
- ![Screenshot (34)](https://user-images.githubusercontent.com/77645775/135179337-7cc58943-c7ed-46d6-b84b-694c507c6d4d.png)
- #### User Disaply
-![Screenshot (33)](https://user-images.githubusercontent.com/77645775/135179332-4ad5ada3-11ae-4ce5-b7c4-38843dcb48eb.png)
+ 
+ ![Screenshot (35)](https://user-images.githubusercontent.com/77645775/135179577-4f8f88a6-d468-4c18-9370-a0862e014186.png)
+
+ 
+![Screenshot (36)](https://user-images.githubusercontent.com/77645775/135179590-18f4d5b2-342f-4382-8365-16f73e758654.png)
+
 
 
 ## Technology stack descriptions
