@@ -21,7 +21,7 @@ The technologies used in this project will be
 
 5. Front-end responsive design:  
 
-    For responsive design we are going to use AngularJS or NodeJS 
+    For responsive design we are going to use Bootstrap
 
 6. Static analysis tools: 
 
