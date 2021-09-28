@@ -29,7 +29,21 @@ The overview of the project is to develop an application that allows students to
 
 ## ** Technology stack descriptions**
 
+### ASP.Net Core & C#
+We are going to use Microsoft Visual Studio 2019 (Community verson). We are going to use ASP.Net Core and C# to write the middleware of the application. We will be using Razor pages which are going to be routed using ASP.net Core and display all operations on it.
 
+### Bootstrap
+We are going to use bootstrap to create a responisve design for the application . We are also going to have Jquery, HTML , CSS to the pages .
+
+### Microsoft SQL Server
+We are going to use Microsoft SQl server to create and maintain a database for the application.
+
+### Azure Cloud Hosting
+We are going to use Azure Cloud Hosting services to host the application and be able to run it on all devices.
+
+
+## **ER- Diagram **
+![ERD](https://user-images.githubusercontent.com/77645775/135178219-15f57dbd-208c-410e-908b-92908350d780.png)
 
 
  
