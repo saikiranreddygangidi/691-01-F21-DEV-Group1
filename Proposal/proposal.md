@@ -17,10 +17,13 @@ The overview of the project is to develop an application that allows students to
 •	Students who require these books for a short time period can get access easily.
  
  
+## Acceptance criteria checklist
  
- 
- 
- 
+ 1. User should be able to view the Home page.
+ 2. User should be able to login to the portal.
+ 3. User should be able to Buy Books.
+ 4. User should be able to Sell Books.
+ 5. User should be able to Rent Books.
  
  
 ## User interface sketches 
