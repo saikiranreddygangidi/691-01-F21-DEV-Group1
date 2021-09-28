@@ -16,6 +16,23 @@ The overview of the project is to develop an application that allows students to
 
 •	Students who require these books for a short time period can get access easily.
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## **User interface sketches** 
+ ![interface Sketch](https://user-images.githubusercontent.com/77645775/135176134-8c275dc5-5484-41a6-813b-6da5033621ed.png)
+
+
+## ** Technology stack descriptions**
+
+
+
+
+ 
 ## **Risks**
 
 •	Students can only sell selected books which are required by the university.
