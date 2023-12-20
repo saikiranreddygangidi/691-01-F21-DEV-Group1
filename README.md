@@ -1,5 +1,4 @@
-## Link for RFP (Hand-in Hand-Out): https://github.com/HemaSreeRathnamMachha/691-01-F21-RFP-Group1/blob/main/HandIn-HandOut.md
-
+## Link for RFP (Hand-in Hand-Out)
 ## Stack
 The technologies used in this project will be 
 
